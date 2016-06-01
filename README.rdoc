@@ -1,0 +1,5 @@
+== README
+
+Stock Market Social App
+
+Track Friend's portfolio
