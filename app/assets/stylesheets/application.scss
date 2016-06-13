@@ -1,3 +1,8 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import 'bourbon';
+@import 'scaffolds';
+@import 'custom';
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
@@ -12,6 +17,5 @@
  *
 
  *= require devise_bootstrap_views
- *= require_tree .
  *= require_self
  */
